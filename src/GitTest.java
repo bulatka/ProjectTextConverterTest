@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class GitTest {
+public class GitTest {
+    private String s;
+    private StringBuilder sb;
 }
