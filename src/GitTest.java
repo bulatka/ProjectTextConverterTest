@@ -2,6 +2,11 @@ public class GitTest {
     private String s;
     private StringBuilder sb;
 
+    public GitTest(String s, StringBuilder sb) {
+        this.s = s;
+        this.sb = sb;
+    }
+
     public void setS(String s) {
         this.s = s;
     }
